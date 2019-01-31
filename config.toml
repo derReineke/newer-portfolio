@@ -1,0 +1,31 @@
+baseURL = "https://derreineke.com/"
+languageCode = "en-us"
+title = "Reineke Fuchs"
+theme = "hello-friend"
+paginate = 3
+copyright = "Reineke Fuchs"
+
+[params]
+    subtitle = "Portfolio page of Reineke Fuchs"
+
+[params.logo]
+    logoText = "derreineke"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "showcase"
+        name = "works"
+        url = "/showcase"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "posts"
+        name = "posts"
+        url = "/posts"
+        weight = 0

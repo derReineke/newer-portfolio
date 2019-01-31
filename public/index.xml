@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reineke Fuchs</title>
+    <link>https://derreineke.com/</link>
+    <description>Recent content on Reineke Fuchs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reineke Fuchs</copyright>
+    <lastBuildDate>Wed, 30 Jan 2019 15:29:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://derreineke.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://derreineke.com/posts/test-post/</link>
+      <pubDate>Wed, 30 Jan 2019 15:29:17 -0500</pubDate>
+      
+      <guid>https://derreineke.com/posts/test-post/</guid>
+      <description>This is but a test fine readers.
+ Code test:
+def test(): print(&amp;quot;This is test code, lol.&amp;quot;) return &amp;quot;lol&amp;quot;   </description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://derreineke.com/showcase/</link>
+      <pubDate>Wed, 30 Jan 2019 15:29:17 -0500</pubDate>
+      
+      <guid>https://derreineke.com/showcase/</guid>
+      <description>Websites that I&amp;rsquo;ve made Old(er) Portfolio The first is my old(er) portfolio. It was coded completely by me, without using a static-site generator. I love the aesthetic of it, as my main coding environment when I first started was the terminal on Linux.
+ Old(er) Porfolio
+ Old Portfolio This portfolio was made using Hugo, which made this site as well. I really like Hugo as it works most of the time.</description>
+    </item>
+    
+    <item>
+      <title>About der Reineke</title>
+      <link>https://derreineke.com/about/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://derreineke.com/about/</guid>
+      <description>Hello there
+My name is Reineke Fuchs, for those who missed it. I am a student(still) currently working on a post-degree certificate in Cybersecurity; my Bachelors is in the Humanities. I went to grad school for a little bit for Germanic Studies, but I hated it so I dropped out. I then started teaching myself how to program in Python, as well as learned some Data Analysis. I am currently building my knowledge base in Data Science and Cybersecurity.</description>
+    </item>
+    
+  </channel>
+</rss>
